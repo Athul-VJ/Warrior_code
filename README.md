@@ -27,12 +27,7 @@ This script is designed to change the IP address of a specified network interfac
 
 ## Install Dependencies:
 
-'''bash
+```bash
 
 pip install -r requirements.txt
 
-## Run the Script:
-
-bash
-
-python ip_changer.py
