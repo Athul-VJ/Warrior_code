@@ -24,3 +24,15 @@ This script is designed to change the IP address of a specified network interfac
    ```bash
    git clone https://github.com/yourusername/ip-changer-with-tor.git
    cd ip-changer-with-tor
+
+## Install Dependencies:
+
+'''bash
+
+pip install -r requirements.txt
+
+## Run the Script:
+
+bash
+
+python ip_changer.py
